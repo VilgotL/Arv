@@ -12,7 +12,7 @@ namespace ConsoleApp13
         {
             double höjd;
             double bredd;
-            int form;;
+            int form;
             Console.WriteLine("Höjd: ");
             höjd = Convert.ToDouble(Console.Read());
             Console.WriteLine("Bredd: ");
