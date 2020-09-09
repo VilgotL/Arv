@@ -31,6 +31,7 @@ namespace ConsoleApp13
                 Console.WriteLine("Area: " + r.Area());
                 Console.WriteLine("Omkrets: " + r.Circumferance());
             }
+            Console.ReadLine();
         }
     }
 }
